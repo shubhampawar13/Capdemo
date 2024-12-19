@@ -1,0 +1,11 @@
+EmpID,firstname,lastname,email,department,joining_date,salary
+1,John,Doe,john.doe@example.com,Sales,2022-01-15,60000
+2,Jane,Smith,jane.smith@example.com,Marketing,2021-03-22,65000
+3,Emily,Jones,emily.jones@example.com,HR,2020-05-10,55000
+4,Michael,Brown,michael.brown@example.com,IT,2019-07-01,70000
+5,Sarah,Johnson,sarah.johnson@example.com,Finance,2023-02-14,72000
+6,David,Wilson,david.wilson@example.com,Sales,2021-11-30,64000
+7,Amy,Garcia,amy.garcia@example.com,Marketing,2020-09-18,58000
+8,James,Miller,james.miller@example.com,IT,2022-06-12,71000
+9,Jessica,Martinez,jessica.martinez@example.com,HR,2019-12-05,56000
+10,Daniel,Davis,daniel.davis@example.com,Finance,2023-04-08,75000
